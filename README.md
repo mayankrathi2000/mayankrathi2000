@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 🛠 I’m currently working with **C, C++, Java, Python, SQL, JsonPowerDB, HTML/CSS, JavaScript**
+- 🛠 I’m currently working with **C, C++, Java, Python, SQL, JsonPowerDB, HTML/CSS, JavaScript, Socket Programming, Ubuntu, RedHat 8**
 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/mayankrathi2000)
 
